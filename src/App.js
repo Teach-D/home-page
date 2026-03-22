@@ -71,7 +71,7 @@ const PROJECTS = [
   {
     title: 'Walk it (워킷)',
     subtitle: '산책을 통한 삶의 행복함을 위해',
-    period: '2025.11 ~ 2026.02',
+    period: '2025.11 ~ 2026.01',
     role: '백엔드 개발',
     team: '기획 1명, 디자인 3명, iOS 1명, AOS 1명, 백엔드 2명',
     tech: ['Java', 'Spring Boot', 'AWS', 'Docker', 'GitHub Actions', 'JPA', 'AI'],
