@@ -145,7 +145,7 @@ function App() {
           </div>
           <div className="hero-avatar">
             <div className="avatar-ring">
-              <div className="avatar-inner">KDH</div>
+              <img src="/picture.png" alt="프로필" className="avatar-img" />
             </div>
           </div>
         </div>
