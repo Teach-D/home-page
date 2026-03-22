@@ -14,6 +14,8 @@ const SKILLS = [
   { category: '데이터', items: ['MySQL', 'Redis', 'RabbitMQ'] },
   { category: '인프라', items: ['AWS', 'Docker', 'Linux', 'GitHub Actions'] },
   { category: '모니터링', items: ['Prometheus', 'Alertmanager', 'Zipkin'] },
+  { category: '프론트엔드', items: ['React', 'JSP', 'JavaScript'] },
+
 ];
 
 const PROJECTS = [
